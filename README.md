@@ -1,7 +1,7 @@
 requirements:
-- java
-- python
-- fastboot 
+1) java
+2) python
+3) fastboot 
 
 * Unloack Developers tools in your phone.
 
@@ -9,8 +9,8 @@ requirements:
 
 * unzip miui zip to this catalog (replace all file).
 
-* useMiUnlockTool
-* `java -jar bin/MiUnlockTool.jar 'user-email' 'user-password'`
+* use MiUnlockTool
+`java -jar MiUnlockTool/bin/MiUnlockTool.jar 'user-email' 'user-password'`
 
 * `chmod a+x upload.sh`
 * `./upload.sh`
@@ -24,3 +24,7 @@ requirements:
 -Press "Change Filesystem".
 -Press "EXT4".
 ```
+
+recovery.img -> https://twrp.me/Devices/
+new version of sdat2img.py -> https://github.com/xpirt/sdat2img
+MiUnlockTool -> http://xiaomitool.com/MiUnlockTool

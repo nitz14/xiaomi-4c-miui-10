@@ -1,3 +1,4 @@
+# wget https://raw.githubusercontent.com/xpirt/sdat2img/master/sdat2img.py
 python sdat2img.py system.transfer.list system.new.dat system.img
 fastboot erase system
 fastboot flash system system.img
