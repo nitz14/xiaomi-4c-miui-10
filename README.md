@@ -25,6 +25,8 @@ requirements:
 -Press "EXT4".
 ```
 
+```
 recovery.img -> https://twrp.me/Devices/
 new version of sdat2img.py -> https://github.com/xpirt/sdat2img
 MiUnlockTool -> http://xiaomitool.com/MiUnlockTool
+```
